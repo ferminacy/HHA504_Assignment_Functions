@@ -10,5 +10,7 @@ GCP Serverless function deployments
 <img width="1440" alt="Screen Shot 2024-10-06 at 11 35 17 PM" src="https://github.com/user-attachments/assets/0c1dbc54-d1d5-40dc-aa90-31b093f8b387">
 
 GCP Code and configuration for the GitHub cron job
+<img width="1440" alt="Screen Shot 2024-10-06 at 11 42 52 PM" src="https://github.com/user-attachments/assets/d29ad106-b857-4887-8de4-7f815a6c310e">
 
 GCP Documentation of the GCP Cloud Scheduler setup
+<img width="1440" alt="Screen Shot 2024-10-06 at 11 42 28 PM" src="https://github.com/user-attachments/assets/a7f41b9c-bdbd-4dab-b77a-2725f5bb25ca">
