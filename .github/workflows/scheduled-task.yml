@@ -1,1 +1,14 @@
+name: Scheduled Task
 
+# Schedule the action to run every day at midnight
+on:
+  schedule:
+    - cron: '0 0 * * *'  # This cron syntax represents midnight UTC every day
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Run scheduled task
+      run: echo "Scheduled task executed"
